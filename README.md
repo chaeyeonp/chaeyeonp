@@ -11,10 +11,10 @@
 🌱 I’m currently learning ...
 |Skills|Link |
 | :-----:|:-: |
-|Python|https://github.com/chaeyeonp/daily_algorithm<br>https://github.com/chaeyeonp/pre-education|
-|SQL|https://github.com/chaeyeonp/daily_algorithm|
+|Algorithm|https://github.com/chaeyeonp/daily_algorithm<br>https://github.com/chaeyeonp/pre-education|
 |Java|https://github.com/chaeyeonp/java_playground<br>https://github.com/chaeyeonp/java_game_practice<br>https://github.com/chaeyeonp/java_movie_recommendation_prac|
 |Javascript|https://github.com/chaeyeonp/javascript_playground|
+|Pandas|https://github.com/chaeyeonp/pandas_playground|
 |OpenCV|https://github.com/chaeyeonp/opencv_playground| 
 |React|https://github.com/chaeyeonp/react_list_practice<br>https://github.com/chaeyeonp/react_signup_practice<br>https://github.com/chaeyeonp/react_phonebook_practice| 
 
