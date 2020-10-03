@@ -3,7 +3,7 @@
 🔭 I’m currently working on...
 
 |Stack|Project Link |Position|
-| :-----:|:-: |:-: |:-: |
+| :-----:|:-: |:-: |
 |React + Express + Mysql|https://github.com/chaeyeonp/mysql-express_review_db<br>https://github.com/chaeyeonp/react_movie_review_project| Full-Stack|
 |Vue.js+SpringBoot+Oracle|https://github.com/chaeyeonp/the-more-the-better| Front-end|
 |React+Next+Redux+Express+Redux+Redux-saga+Express+Sequelize(Mysql)|https://github.com/chaeyeonp/the-more-the-better| Full-Stack|
