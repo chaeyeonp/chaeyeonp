@@ -11,12 +11,14 @@
 🌱 I’m currently learning ...
 |Skills|Link |
 | :-----:|:-: |
+|React|https://github.com/chaeyeonp/react_list_practice<br>https://github.com/chaeyeonp/react_signup_practice<br>https://github.com/chaeyeonp/react_phonebook_practice| 
 |Algorithm|https://github.com/chaeyeonp/daily_algorithm<br>https://github.com/chaeyeonp/pre-education|
 |Java|https://github.com/chaeyeonp/java_playground<br>https://github.com/chaeyeonp/java_game_practice<br>https://github.com/chaeyeonp/java_movie_recommendation_prac|
+|Ios|https://github.com/chaeyeonp/ios_playground|
 |Javascript|https://github.com/chaeyeonp/javascript_playground|
 |Pandas|https://github.com/chaeyeonp/pandas_playground|
 |OpenCV|https://github.com/chaeyeonp/opencv_playground| 
-|React|https://github.com/chaeyeonp/react_list_practice<br>https://github.com/chaeyeonp/react_signup_practice<br>https://github.com/chaeyeonp/react_phonebook_practice| 
+
 
 📫 How to reach me: chaeyeon.park@outlook.com
 
