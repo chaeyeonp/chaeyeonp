@@ -16,7 +16,7 @@
 |Java|https://github.com/chaeyeonp/java_playground<br>https://github.com/chaeyeonp/java_game_practice<br>https://github.com/chaeyeonp/java_movie_recommendation_prac|
 |iOS|https://github.com/chaeyeonp/ios_playground|
 |Javascript|https://github.com/chaeyeonp/javascript_playground|
-|Numpy|https://github.com/chaeyeonp/pandas_playground|
+|Numpy|https://github.com/chaeyeonp/numpy_playground|
 |OpenCV|https://github.com/chaeyeonp/opencv_playground| 
 
 
