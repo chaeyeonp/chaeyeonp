@@ -1,12 +1,13 @@
 ## Full-Stack Developer
 
-🔭 I’m currently working on...
+📚 Projects
 
 |Stack|Project Link |Position|
 | :-----:|:-: |:-: |
 |React + Express + Mysql|https://github.com/chaeyeonp/mysql-express_review_db<br>https://github.com/chaeyeonp/react_movie_review_project| Full-Stack|
 |Vue.js+SpringBoot+Oracle|https://github.com/chaeyeonp/the-more-the-better| Front-end|
 |GraphQL+ Apollo + React|https://github.com/chaeyeonp/graphql_react| Full-Stack|
+
 
 🌱 I’m currently learning ...
 |Skills|Link |
@@ -20,6 +21,10 @@
 |Javascript|https://github.com/chaeyeonp/javascript_playground|
 |Numpy|https://github.com/chaeyeonp/numpy_playground|
 |OpenCV|https://github.com/chaeyeonp/opencv_playground| 
+
+👩‍💻 I’m currently working on...
+
+https://github.com/chaeyeon-vatech
 
 
 📫 How to reach me: chaeyeon.park@outlook.com
