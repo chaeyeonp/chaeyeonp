@@ -1,4 +1,7 @@
-## Full-Stack Developer
+## Front-End Developer
+
+
+👩‍💻 I’m currently working on https://github.com/chaeyeon-vatech
 
 📚 Projects
 
@@ -22,9 +25,6 @@
 |Javascript|https://github.com/chaeyeonp/javascript_playground|
 |Numpy|https://github.com/chaeyeonp/numpy_playground|
 |OpenCV|https://github.com/chaeyeonp/opencv_playground| 
-
-👩‍💻 I’m currently working on https://github.com/chaeyeon-vatech
-
 
 📫 How to reach me: chaeyeon.park@outlook.com
 
