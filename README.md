@@ -1,7 +1,7 @@
 ## Front-End Developer
 
 
-##### 👩‍💻 I created a new company account(https://github.com/chaeyeon-vatech) and currently using it as my main account.
+#### 👩‍💻 I created a new company account(https://github.com/chaeyeon-vatech) and currently using it as my main account.
 
 
 #### 📚 Git Status
