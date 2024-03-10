@@ -3,7 +3,7 @@
 
 #### 👩‍💻 Description
 
-##### Company Account : https://github.com/chaeyeon-vatech
+##### Company Account : https://github.com/chaeyeonpk / https://github.com/chaeyeon-vatech
 
 ##### Personal Account : https://github.com/chaeyeonp
 
